@@ -1,5 +1,5 @@
 <h1 align="center">Hola 👋, soy Ion Cerezo</h1>
-<h3 align="center">desarrollador Junior Full Stack y antiguo Educador Social</h3>
+<h3 align="center">Desarrollador Junior Full Stack y antiguo Educador Social</h3>
 
 
 - 🌱 Desarrollador autodidacta. Aprendiendo un poco mas cada d
