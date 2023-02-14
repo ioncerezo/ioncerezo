@@ -19,11 +19,11 @@
 
 <h4>Lenguajes de programación y herramientas:</h4>
 
- **Front End**   | HTML, CSS, JavaScript, React, Tailwind y otros...
+ **Front End**    HTML, CSS, JavaScript, React, Tailwind y otros...
  
- **Back End**   |  NodeJS, Express, MongoDB y Mongoose.
+ **Back End**    NodeJS, Express, MongoDB y Mongoose.
  
- **Otros**  | GNU/Linux, Git y Gimp|
+ **Otros**   GNU/Linux, Git y Gimp|
  
 
 
