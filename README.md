@@ -1,9 +1,6 @@
 <h1 align="center">Hola 👋, soy Ion Cerezo</h1>
 <h3 align="center">desarrollador Junior Full Stack y antiguo Educador Social</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=ioncerezo&label=Profile%20views&color=0e75b6&style=flat" alt="ioncerezo" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ioncerezo" alt="ioncerezo" /></a> </p>
 
 - 🌱 Desarrollador autodidacta. Aprendiendo un poco mas cada d
 
