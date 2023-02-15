@@ -11,7 +11,7 @@
 
 💬 Preguntame acerca de **React, Tailwind, HTML, nodeJS, css y JavaScript**
 
-📫 Puedes contactarme vía **ioncerezovalero@gmail.com**
+📫 Puedes contactarme vía **ioncerezovalero@gmail.com** o **644 97 18 68**
 
 ⚡ Cosas que hago a parte de programar **Cocina y escalada**
 
@@ -23,7 +23,7 @@
  
  **Back End:**    NodeJS, Express, MongoDB y Mongoose.
  
- **Otros:**   GNU/Linux, Git y Gimp|
+ **Otros:**   GNU/Linux, Git y Gimp
  
 
 
