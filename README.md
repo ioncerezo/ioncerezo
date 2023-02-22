@@ -7,7 +7,7 @@
 
 👨‍💻 Todos mis proyectos estan disponibles en [https://ioncerezo.netlify.app/](https://ioncerezo.netlify.app/)
 
- 📝 Puedes ver mi prefil de Code Wars en [https://www.codewars.com/users/ioncerezo](https://www.codewars.com/users/ioncerezo)
+ 📝 Puedes ver mi prefil de LinkedIn en [https://www.linkedin.com/in/ioncerezo/](https://www.linkedin.com/in/ioncerezo/))
 
 💬 Preguntame acerca de **React, Tailwind, HTML, nodeJS, css y JavaScript**
 
